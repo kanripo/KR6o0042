@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:40.110042
+#+DATE: 2015-08-30 20:59:41.074824
 #+TITLE: 集諸法寶最上義論
 #+PROPERTY: CBETA_ID T32n1638
 #+PROPERTY: ID KR6o0042
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1638
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6o0042_T_000-0150a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0042_T_001-0150a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1638¶
-
- 集諸法寶最上義論卷上¶
+No. 1638¶
+集諸法寶最上義論卷上¶
 ¶
 善寂菩薩造¶
 西天譯經三藏朝奉大夫試光¶
@@ -200,7 +199,7 @@ No.1638¶
 彼彼亦無實若於自心有所了知。即此自心¶
 亦復無實。若如實知者名覺了識相。若有一¶
 切麁重分別心起。當知皆是煩惱差別所生。¶
-若能了煩惱性離分別心。即生死涅盤二俱¶
+若能了煩惱性離分別心。即生死涅槃二俱¶
 清淨。此清淨性即諸法性。是性亦復名為真¶
 如。名為實際。亦名為空。是諸性中若染若淨。¶
 實智所觀皆悉平等。或有問言。於一切法中¶
