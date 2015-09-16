@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 集諸法寶最上義論
+#+DATE: 2015-08-30 20:59:40.352221
+#+PROPERTY: JUAN 0
