@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:41.298900
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 集諸法寶最上義論
 #+PROPERTY: CBETA_ID T32n1638
 #+PROPERTY: ID KR6o0042
