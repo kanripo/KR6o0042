@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:40.138053
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 集諸法寶最上義論
 #+PROPERTY: CBETA_ID T32n1638
 #+PROPERTY: ID KR6o0042
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1638
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0042_T_000-0150a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0042_T_002-0152b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 集諸法寶最上義論卷下¶
+集諸法寶最上義論卷下¶
 ¶
 善寂菩薩造¶
-西天譯經三藏朝奉大夫試光祿卿¶
-傳法大師賜紫臣施護奉　詔譯¶
+西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫臣施護奉　詔譯¶
 
 復次今說生住異滅。此之四相剎那剎那有¶
 所轉故。不相應相而無其實。於不相應無實¶
@@ -252,7 +250,7 @@
 　總攝最上真實句
 　甚深微妙不思議¶
 　集諸功德量無邊
-　普施一切眾生界
+　普施一切眾生界」
 #+END_VERSE
-」¶
+¶
 集諸法寶最上義論卷下
